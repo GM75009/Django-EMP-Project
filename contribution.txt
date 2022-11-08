@@ -1,0 +1,8 @@
+GURUDAS MANCHKAR
+
+EMS system is buit using Django & is used for managing the employee system. Employee Management System is a distributed application, developed to maintain the details of employees working in any organization. It maintains the information about the personal and official details of the employees.
+Our goal of making these project was to approach & supporting the employees to reach their peak performance and meet the company’s goals.
+ 
+My contribution:
+Filtering Part(Backend): In these i done a filtering part were all the dept data(eg. timesheet of particular dept.) gets filtered and stored in single file. Whenever we want to check history of the person we can directly press that button and observe the things.
+HTML & CSS(Frontend): Written HTML code as well done the CSS framework for the pages we have made in it.
